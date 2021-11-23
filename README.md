@@ -26,9 +26,7 @@ https://documenter.getpostman.com/view/17157960/UVJYKzQY
 
 ### Tela com a documentação gerada no Postman
 
-![img]()
-
-
+![img](https://github.com/PericlesManica/Projeto-DIO-Java-Dynamodb/blob/master/TelaPostman.png)
 
 
 
