@@ -18,7 +18,7 @@
 
 
 
-### Link para documentação Postman
+### Link Postman
 
 https://documenter.getpostman.com/view/17157960/UVJYKzQY
 
